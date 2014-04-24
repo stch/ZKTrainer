@@ -214,6 +214,9 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Satoshi H";
 				TargetAttributes = {
+					FB9CB6EC190950EB00314212 = {
+						DevelopmentTeam = K396K77B75;
+					};
 					FB9CB717190950EC00314212 = {
 						TestTargetID = FB9CB6EC190950EB00314212;
 					};
@@ -404,6 +407,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ZKTrainer/ZKTrainer-Prefix.pch";
 				INFOPLIST_FILE = "ZKTrainer/ZKTrainer-Info.plist";
@@ -418,6 +422,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ZKTrainer/ZKTrainer-Prefix.pch";
 				INFOPLIST_FILE = "ZKTrainer/ZKTrainer-Info.plist";
